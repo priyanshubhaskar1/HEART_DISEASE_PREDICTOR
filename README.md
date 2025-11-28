@@ -96,6 +96,6 @@ Model training
 
 Model evaluation
 
-✅ Conclusion
+✅ **Conclusion**
 
 This Heart Disease Prediction project demonstrates how Machine Learning can be effectively used in the healthcare domain for disease prediction. Although the dataset is relatively small, it is highly suitable for learning and practicing classification techniques. The project provides a strong foundation for building more advanced healthcare prediction systems in the future.
